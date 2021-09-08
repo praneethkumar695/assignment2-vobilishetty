@@ -22,3 +22,5 @@ Items to be bring for your favorite place
     * pair of shoe lace
 * Hat
 * Sunglasses
+
+[Click on this link to know more about me](AboutMe.md)
