@@ -13,3 +13,12 @@ It was my dream to visit there, tourism in New York City is at its peak. Many vi
     3. Visit all important/beautiful places in new york.
 3. After visiting all places return the rental car in airport and board the return flight for kansas city.
 
+
+Items to be bring for your favorite place
+* DSLR camera
+* Light Jacket
+* Comfortable Shoe
+    * pair of socks
+    * pair of shoe lace
+* Hat
+* Sunglasses
