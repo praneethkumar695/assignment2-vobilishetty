@@ -24,3 +24,15 @@ Items to be bring for your favorite place
 * Sunglasses
 
 [Click on this link to know more about me](AboutMe.md)
+
+----
+## Food/Drinks I would recommend for someone
+
+Below are the drinks I would recommend to any one for good health.
+
+| Food/Drinks | Location | Price |
+| :---: | :---: | :---: |
+| Veg Biryani | Pardise | $15 |
+| Cocacola | Walmart | $5 |
+| Kaju Barfi| Karachi Bakery | $2 |
+| Tender Coconut Icecream| Naturals | $5 |
