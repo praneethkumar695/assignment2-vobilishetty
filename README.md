@@ -36,3 +36,9 @@ Below are the drinks I would recommend to any one for good health.
 | Cocacola | Walmart | $5 |
 | Kaju Barfi| Karachi Bakery | $2 |
 | Tender Coconut Icecream| Naturals | $5 |
+
+---
+## Pithy Quotes
+> Tough times never last but tough people do - *Robert H. Schuller*
+
+> You miss 100 percent of the shots you never take. - *Wayne Gretzky*
